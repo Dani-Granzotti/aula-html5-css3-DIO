@@ -1,2 +1,3 @@
 # aula-html5-css3-DIO
-Como utilizar HTML5 e CSS3 
+
+Curso Programação para Internet com HTML5 e CSS3 / Rafael Galeani
